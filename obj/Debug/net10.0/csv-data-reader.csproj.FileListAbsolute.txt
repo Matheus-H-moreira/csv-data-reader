@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\bin\Debug\net10.0\csv-data-reader.exe
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\bin\Debug\net10.0\csv-data-reader.deps.json
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\bin\Debug\net10.0\csv-data-reader.runtimeconfig.json
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\bin\Debug\net10.0\csv-data-reader.dll
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\bin\Debug\net10.0\csv-data-reader.pdb
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.AssemblyInfo.cs
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.sourcelink.json
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.dll
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\refint\csv-data-reader.dll
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.pdb
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\csv-data-reader.genruntimeconfig.cache
+C:\Users\mathe\OneDrive - sga.pucminas.br\Segundo Período\Algoritmos e Estrutura de Dados\Trabalho Final\csv-data-reader\obj\Debug\net10.0\ref\csv-data-reader.dll
